@@ -1,0 +1,15 @@
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\bin\Debug\net8.0\Binarytree.exe
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\bin\Debug\net8.0\Binarytree.deps.json
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\bin\Debug\net8.0\Binarytree.runtimeconfig.json
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\bin\Debug\net8.0\Binarytree.dll
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\bin\Debug\net8.0\Binarytree.pdb
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\obj\Debug\net8.0\Binarytree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\obj\Debug\net8.0\Binarytree.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\obj\Debug\net8.0\Binarytree.AssemblyInfo.cs
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\obj\Debug\net8.0\Binarytree.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\obj\Debug\net8.0\Binarytree.sourcelink.json
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\obj\Debug\net8.0\Binarytree.dll
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\obj\Debug\net8.0\refint\Binarytree.dll
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\obj\Debug\net8.0\Binarytree.pdb
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\obj\Debug\net8.0\Binarytree.genruntimeconfig.cache
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Binarytree\Binarytree\obj\Debug\net8.0\ref\Binarytree.dll
