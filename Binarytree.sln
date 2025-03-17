@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binarytree", "Binarytree\Binarytree.csproj", "{5E949183-DEE6-44BC-92E2-3A691D44BECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarytreeTest", "BinarytreeTest\BinarytreeTest.csproj", "{19097863-7D75-4D4B-9317-347507644D85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5E949183-DEE6-44BC-92E2-3A691D44BECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E949183-DEE6-44BC-92E2-3A691D44BECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E949183-DEE6-44BC-92E2-3A691D44BECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19097863-7D75-4D4B-9317-347507644D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19097863-7D75-4D4B-9317-347507644D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19097863-7D75-4D4B-9317-347507644D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19097863-7D75-4D4B-9317-347507644D85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

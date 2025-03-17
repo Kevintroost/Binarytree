@@ -1,4 +1,4 @@
-﻿class TreeNode
+﻿public class TreeNode
 {
     public int Value;
     public TreeNode? Left;
@@ -11,7 +11,7 @@
     }
 }
 
-class BinaryTree
+public class BinaryTree
 {
     public TreeNode? Root;
 
